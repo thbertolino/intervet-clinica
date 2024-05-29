@@ -566,7 +566,7 @@
 }
 .intervet-clnica-landing-page-mobile-rectangle10 {
   top: 501px;
-  left: 1.1368683772161603e-13px;
+  left: -20px;
   width: 430px;
   height: 1430px;
   position: absolute;
@@ -913,7 +913,7 @@
   top: 109px;
   left: 56px;
   color: rgba(255, 255, 255, 1);
-  width: 317px;
+  /* width: 317px; */
   height: auto;
   position: absolute;
   font-size: 25px;
@@ -934,7 +934,7 @@
 .intervet-clnica-landing-page-mobile-cta02 {
   top: 205px;
   left: 123px;
-  width: 183px;
+  width: 150px;
   height: 42px;
   display: flex;
   position: absolute;
@@ -945,7 +945,7 @@
 }
 .intervet-clnica-landing-page-mobile-text035 {
   top: 11px;
-  left: 30px;
+  left: 15px;
   color: rgba(255, 255, 255, 1);
   width: 123px;
   height: auto;
@@ -961,9 +961,9 @@
 }
 .intervet-clnica-landing-page-mobile-text039 {
   top: 694px;
-  left: 56px;
+  /* left: 56px; */
   color: rgba(64, 46, 16, 1);
-  width: 317px;
+  /* width: 317px; */
   height: auto;
   position: absolute;
   font-size: 25px;
@@ -1245,7 +1245,7 @@
 }
 .intervet-clnica-landing-page-mobile-group31 {
   top: 1610px;
-  left: 88px;
+  left: 75px;
   width: 253px;
   height: 224.73184204101562px;
   display: flex;
@@ -2125,7 +2125,7 @@
 }
 .intervet-clnica-landing-page-mobile-veterinrios {
   top: 773px;
-  left: 36px;
+  left: 20px;
   width: 166px;
   height: 165px;
   display: flex;
@@ -2224,7 +2224,7 @@
 }
 .intervet-clnica-landing-page-mobile-pets-salvos {
   top: 965px;
-  left: 36px;
+  left: 20px;
   width: 166px;
   height: 139px;
   display: flex;
@@ -2412,7 +2412,7 @@
 }
 .intervet-clnica-landing-page-mobile-estrutura {
   top: 1166.85205078125px;
-  left: 36px;
+  left: 20px;
   width: 166px;
   height: 157.14794921875px;
   display: flex;
@@ -2624,7 +2624,7 @@
 }
 .intervet-clnica-landing-page-mobile-cashback {
   top: 1379px;
-  left: 36px;
+  left: 20px;
   width: 166px;
   height: 137px;
   display: flex;
@@ -2689,7 +2689,7 @@
 }
 .intervet-clnica-landing-page-mobile-experincia {
   top: 781px;
-  left: 228px;
+  left: 200px;
   width: 166px;
   height: 151px;
   display: flex;
@@ -2789,7 +2789,7 @@
 }
 .intervet-clnica-landing-page-mobile-emergncia {
   top: 969px;
-  left: 228px;
+  left: 200px;
   width: 166px;
   height: 144px;
   display: flex;
@@ -2924,7 +2924,7 @@
 }
 .intervet-clnica-landing-page-mobile-cuidado {
   top: 1167px;
-  left: 228px;
+  left: 200px;
   width: 166px;
   height: 157px;
   display: flex;
@@ -3023,7 +3023,7 @@
 }
 .intervet-clnica-landing-page-mobile-localizao {
   top: 1379px;
-  left: 228px;
+  left: 200px;
   width: 166px;
   height: 137px;
   display: flex;
@@ -5749,11 +5749,11 @@
 }
 .intervet-clnica-landing-page-mobile-menuabrir {
   top: 35px;
-  left: 366px;
-  width: 28px;
+  left: 340px;
+  /* width: 28px; */
   height: 24px;
   display: flex;
-  position: absolute;
+  position: relative;
   align-items: flex-start;
   flex-shrink: 1;
 }
