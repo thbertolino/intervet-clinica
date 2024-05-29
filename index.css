@@ -1,12 +1,25 @@
 .intervet-clnica-landing-page-mobile-container {
   width: 100%;
   display: flex;
-  overflow: auto;
+  /* overflow: auto; */
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
   justify-content: center;
+  overflow-x: hidden; /* Bloqueia a rolagem horizontal */
+  overflow-y: auto;   /* Permite a rolagem vertical */
 }
+html, body {
+  overflow-x: hidden; /* Bloqueia a rolagem horizontal */
+  overflow-y: auto;   /* Permite a rolagem vertical */
+  width: 100%;        /* Garante que o conteúdo ocupe toda a largura */
+}
+
+/* Garantir que os elementos não ultrapassem a largura da tela */
+* {
+  box-sizing: border-box;
+}
+
 .intervet-clnica-landing-page-mobile-intervet-clnica-landing-page-mobile {
   width: 100%;
   height: 11251px;
