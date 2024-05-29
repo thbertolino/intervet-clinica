@@ -45,6 +45,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(255, 255, 255, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group1 {
   top: 10.397242546081543px;
@@ -57,8 +58,8 @@
   flex-shrink: 1;
 }
 .intervet-clnica-landing-page-mobile-icontel {
-  top: 0px;
-  left: 0px;
+  top: 9px;
+  left: 9px;
   width: 27.710880279541016px;
   height: 27.7281551361084px;
   display: flex;
@@ -116,8 +117,8 @@
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-text {
-  top: 1.1552734375px;
-  left: 35.8292236328125px;
+  top: 12px;
+  left: 50px;
   color: rgba(68, 170, 75, 1);
   height: auto;
   position: absolute;
@@ -146,6 +147,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(68, 170, 75, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group2 {
   top: 10.3984375px;
@@ -158,8 +160,8 @@
   flex-shrink: 1;
 }
 .intervet-clnica-landing-page-mobile-text005 {
-  top: 1.1552734375px;
-  left: 33.45263671875px;
+  top: 12px;
+  left: 50px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -179,8 +181,8 @@
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-vector007 {
-  top: 0px;
-  left: 0px;
+  top: 9px;
+  left: 9px;
   width: 28px;
   height: 28px;
   position: absolute;
@@ -585,7 +587,6 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 1;
-  background-color: rgba(68, 170, 75, 1);
 }
 .intervet-clnica-landing-page-mobile-image2medicos1 {
   top: 270px;
@@ -937,6 +938,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(239, 181, 81, 1);
+  border-radius: 50px
 }
 .intervet-clnica-landing-page-mobile-text035 {
   top: 11px;
@@ -1258,6 +1260,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(255, 255, 255, 1);
+  border-radius: 50px;
 }
 .intervet-clnica-landing-page-mobile-group102 {
   top: 12.720685958862305px;
@@ -1359,6 +1362,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(68, 170, 75, 1);
+  border-radius: 50px;
 }
 .intervet-clnica-landing-page-mobile-group22 {
   top: 12.720656394958496px;
@@ -1432,6 +1436,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(255, 255, 255, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group103 {
   top: 11.276646614074707px;
@@ -1533,6 +1538,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(68, 170, 75, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group23 {
   top: 11.276535034179688px;
@@ -1606,6 +1612,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(255, 255, 255, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group104 {
   top: 12.31855297088623px;
@@ -1707,6 +1714,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(68, 170, 75, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group24 {
   top: 12.318460464477539px;
@@ -1780,6 +1788,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(241, 104, 58, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group105 {
   top: 13.424586296081543px;
@@ -1881,6 +1890,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(129, 179, 54, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group25 {
   top: 13.424544334411621px;
@@ -1954,6 +1964,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(241, 104, 58, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group106 {
   top: 12.318195343017578px;
@@ -2055,6 +2066,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(129, 179, 54, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group26 {
   top: 12.318591117858887px;
@@ -2303,6 +2315,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(239, 181, 81, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group107 {
   top: 10.811920166015625px;
@@ -3129,6 +3142,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius: 50px
 }
 .intervet-clnica-landing-page-mobile-consultas1 {
   top: -9.7540922164917px;
@@ -3486,6 +3500,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-consultas11 {
   top: 0.00007228744652820751px;
@@ -3557,6 +3572,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-consultas12 {
   top: -0.7522095441818237px;
@@ -3628,6 +3644,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-closeupveterinarydoctortakingcarepet1 {
   top: -57.95046615600586px;
@@ -3768,6 +3785,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-consultas14 {
   top: -0.00006274005136219785px;
@@ -3821,6 +3839,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-consultas15 {
   top: -69.36322021484375px;
@@ -3957,6 +3976,8 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  overflow-x: auto; /* Permitir rolagem horizontal */
+  white-space: nowrap; /* Evitar quebra de linha */
 }
 .intervet-clnica-landing-page-mobile-mdicos {
   top: 0px;
@@ -3967,6 +3988,11 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-mdicos span,
+.intervet-clnica-landing-page-mobile-mdicos div {
+  display: inline-block;
+  margin-right: 20px; /* Espaçamento entre os itens */
 }
 .intervet-clnica-landing-page-mobile-text262 {
   top: 365px;
@@ -4059,12 +4085,13 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-wander1 {
-  top: -84px;
-  left: -16px;
-  width: 303px;
-  height: 454px;
+  top: 0px;
+  left: -34px;
+  width: 350px;
+  height: 339px;
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup15 {
@@ -4078,12 +4105,13 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-wander11 {
-  top: -84px;
-  left: -326px;
-  width: 753px;
-  height: 502px;
+  top: 0px;
+  left: -34px;
+  width: 350px;
+  height: 339px;
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup16 {
@@ -4097,12 +4125,13 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-wander12 {
-  top: -36px;
-  left: -262px;
-  width: 666px;
-  height: 444px;
+  top: 0px;
+  left: -34px;
+  width: 350px;
+  height: 339px;
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup17 {
@@ -4116,12 +4145,13 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-wander13 {
-  top: -5px;
-  left: -123px;
-  width: 561px;
-  height: 370px;
+  top: 0px;
+  left: -34px;
+  width: 350px;
+  height: 339px;
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup18 {
@@ -4135,12 +4165,13 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-wander14 {
-  top: -14px;
-  left: -146px;
-  width: 528px;
-  height: 352px;
+  top: 0px;
+  left: -34px;
+  width: 350px;
+  height: 339px;
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-frame1 {
@@ -4964,6 +4995,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius: 50px;
 }
 .intervet-clnica-landing-page-mobile-image921b64cdeeb3704e093f9873c82c01571 {
   top: -21.677734375px;
@@ -5290,6 +5322,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(241, 104, 58, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group108 {
   top: 12.368109703063965px;
@@ -5391,6 +5424,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(129, 179, 54, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group27 {
   top: 12.3681640625px;
@@ -5537,6 +5571,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(241, 104, 58, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group109 {
   top: 9.529296875px;
@@ -5638,6 +5673,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(129, 179, 54, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group28 {
   top: 9.529296875px;
@@ -5752,7 +5788,9 @@
   color: rgba(248, 202, 142, 1);
   font-weight: 700;
 }
-.intervet-clnica-landing-page-mobile-text391 {
-  color: rgba(248, 202, 142, 1);
-  font-weight: 700;
+.answer {
+  display: none;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
 }
