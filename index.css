@@ -549,12 +549,16 @@
   border-radius: 160px;
 }
 .intervet-clnica-landing-page-mobile-rectangle12 {
-  top: 3731px;
-  left: 0px;
+  /* top: 3731px; */
+  /* left: 0px; */
+
   width: 430px;
   height: 1113px;
   position: absolute;
   border-radius: 0 0 160px 160px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
+  top: 3731px; /* ajustar a margem superior conforme necessário */
 }
 .intervet-clnica-landing-page-mobile-rectangle11 {
   top: 1971px;
@@ -565,12 +569,13 @@
   border-radius: 0 0 160px 160px;
 }
 .intervet-clnica-landing-page-mobile-rectangle10 {
-  top: 501px;
-  left: -20px;
   width: 430px;
   height: 1430px;
   position: absolute;
   border-radius: 0 0 160px 160px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
+  margin-top: 500px; /* ajustar a margem superior conforme necessário */
 }
 .intervet-clnica-landing-page-mobile-rectangle7 {
   top: 0px;
