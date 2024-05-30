@@ -21,12 +21,17 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .intervet-clnica-landing-page-mobile-rectangle17 {
-  top: 8687px;
-  left: 0px;
-  width: 430px;
-  height: 1063px;
+  /* top: 8687px; */
+  /* left: 0px; */
+  /* height: 1063px; */
   position: absolute;
   border-radius: 0 0 160px 160px;
+
+  width: 430px;
+  height: 1063px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
+  top: 8687px; /* ajustar a margem superior conforme necessário */
 }
 .intervet-clnica-landing-page-mobile-group17 {
   top: 9463px;
