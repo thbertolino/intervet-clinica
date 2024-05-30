@@ -541,17 +541,14 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-rectangle14 {
-  top: 6407px;
-  left: 430px;
+  top: 5600px;
+  /* left: 430px; */
   width: 430px;
   height: 810px;
   position: absolute;
   border-radius: 160px;
 }
 .intervet-clnica-landing-page-mobile-rectangle12 {
-  /* top: 3731px; */
-  /* left: 0px; */
-
   width: 430px;
   height: 1113px;
   position: absolute;
@@ -561,8 +558,9 @@
   top: 3731px; /* ajustar a margem superior conforme necessário */
 }
 .intervet-clnica-landing-page-mobile-rectangle11 {
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   top: 1971px;
-  left: 0px;
   width: 430px;
   height: 2005px;
   position: absolute;
@@ -1019,7 +1017,7 @@
   width: 319px;
   height: auto;
   position: absolute;
-  font-size: 27.98245620727539px;
+  font-size: 26px;
   font-style: ExtraBold;
   text-align: center;
   font-family: Nunito Sans;
@@ -1125,7 +1123,23 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
+/* top: 4014.35400390625px;
+left: 55px;
+color: rgba(255, 255, 255, 1);
+width: 319px;
+height: auto;
+position: absolute;
+font-size: 26px;
+font-style: ExtraBold;
+text-align: center;
+font-family: Nunito Sans;
+font-weight: 800;
+line-height: 111.37000322341919%;
+font-stretch: normal;
+text-decoration: none; */
 .intervet-clnica-landing-page-mobile-text069 {
+  top: 9800px;
+  left: 55px;
   color: rgba(129, 179, 54, 1);
   width: 319px;
   height: auto;
@@ -1140,13 +1154,14 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text073 {
-  top: 73.33322143554688px;
-  left: 8.55555534362793px;
+  top: 9877px;
+  /* top: 73.33322143554688px; */
+  /* left: 8.55555534362793px; */
   color: rgba(64, 46, 16, 1);
-  width: 302px;
-  height: auto;
+  /* width: 302px; */
+  /* height: auto; */
   position: absolute;
-  font-size: 15.888888359069824px;
+  font-size: 18px;
   font-style: Regular;
   text-align: center;
   font-family: Nunito Sans;
@@ -1156,8 +1171,9 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text077 {
-  top: 127.56814575195312px;
-  left: 31.78374481201172px;
+  /* top: 127.56814575195312px; */
+  top: 9925px;
+  left: 85px;
   color: rgba(129, 179, 54, 1);
   width: 255px;
   height: auto;
@@ -1218,9 +1234,9 @@
   height: auto;
   position: absolute;
   font-size: 25px;
-  font-style: ExtraBold;
+  /* font-style: ExtraBold; */
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: Nunito;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -5013,7 +5029,7 @@
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maps-full-map {
-  top: 9987px;
+  top: 9997px;
   left: 35px;
   width: 359px;
   height: 270px;
