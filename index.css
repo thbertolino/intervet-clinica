@@ -241,18 +241,46 @@
 }
 .intervet-clnica-landing-page-mobile-depoimentos {
   top: 6573.18603515625px;
-  left: 0px;
+  left: 50px;
   width: 430px;
   height: 275px;
   display: flex;
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  overflow-x: auto; /* Permitir rolagem horizontal */
+  white-space: nowrap; /* Evitar quebra de linha */
 }
 .intervet-clnica-landing-page-mobile-depoimentos1 {
   top: -32px;
-  left: 53px;
-  width: 1475px;
+  /* left: 72px; */
+  left: 130px;
+  transform: translateX(-10%); /* ajustar para centralizar */
+  width: 1250px;
+  height: 210px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-depoimentos2 {
+  top: -32px;
+  /* left: 72px; */
+  left: 150px;
+  transform: translateX(15%); /* ajustar para centralizar */
+  width: 1250px;
+  height: 210px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-depoimentos3 {
+  top: -32px;
+  /* left: 72px; */
+  left: 170px;
+  transform: translateX(40%); /* ajustar para centralizar */
+  width: 1250px;
   height: 210px;
   display: flex;
   position: absolute;
@@ -295,11 +323,12 @@
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-mediumshotsmileywomanposing1 {
-  top: -10.907073974609375px;
+  top: 40px;
   left: -15.763313293457031px;
-  width: 101px;
-  height: 152px;
+  width: 80px;
+  height: 90px;
   position: absolute;
+  border-radius: 50px;
 }
 .intervet-clnica-landing-page-mobile-text012 {
   top: 229.17041015625px;
@@ -317,20 +346,23 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text014 {
-  top: 88px;
+  top: 140px;
   left: 27px;
   color: rgba(157, 157, 157, 1);
   width: 271px;
   height: auto;
   position: absolute;
   font-size: 16px;
-  font-style: Regular;
+  font-style: normal; /* Corrigido para 'normal' em vez de 'Regular' */
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
-  line-height: 111.37000322341919%;
+  line-height: 1.1137; /* Ajuste para um valor adequado */
   font-stretch: normal;
   text-decoration: none;
+  word-wrap: break-word; /* Adicionado para quebrar palavras longas */
+  word-break: break-word; /* Adicionado para quebrar palavras longas */
+  overflow-wrap: break-word; /* Adicionado para quebrar palavras longas */
 }
 .intervet-clnica-landing-page-mobile-group21 {
   top: 0px;
@@ -612,11 +644,12 @@
   flex-shrink: 1;
 }
 .intervet-clnica-landing-page-mobile-image2medicos1 {
-  top: 270px;
+  top: 267px;
   left: -17px;
-  width: 500px;
-  height: 392px;
+  width: 470px;
+  height: 400px;
   position: absolute;
+  border-radius: 0px 0px 200px 200px;
 }
 .intervet-clnica-landing-page-mobile-logointervet {
   top: 39.68165969848633px;
@@ -2763,7 +2796,7 @@
   top: 781px;
   /* left: 200px; */
   left: 80%; /* posicionar a partir do centro */
-  transform: translateX(-60%); /* ajustar para centralizar */
+  transform: translateX(-70%); /* ajustar para centralizar */
   width: 166px;
   height: 151px;
   display: flex;
@@ -2866,7 +2899,7 @@
   /* left: 200px; */
   
   left: 80%; /* posicionar a partir do centro */
-  transform: translateX(-60%); /* ajustar para centralizar */
+  transform: translateX(-70%); /* ajustar para centralizar */
   width: 166px;
   height: 144px;
   display: flex;
@@ -3004,7 +3037,7 @@
   /* left: 200px; */
   
   left: 80%; /* posicionar a partir do centro */
-  transform: translateX(-60%); /* ajustar para centralizar */
+  transform: translateX(-70%); /* ajustar para centralizar */
   width: 166px;
   height: 157px;
   display: flex;
@@ -3106,7 +3139,7 @@
   /* left: 200px; */
   
   left: 80%; /* posicionar a partir do centro */
-  transform: translateX(-60%); /* ajustar para centralizar */
+  transform: translateX(-70%); /* ajustar para centralizar */
   width: 166px;
   height: 137px;
   display: flex;
@@ -4082,11 +4115,12 @@
   flex-shrink: 1;
 }
 .intervet-clnica-landing-page-mobile-dogcat1 {
-  top: 27.1708984375px;
-  left: -0.67877197265625px;
-  width: 378px;
-  height: 341px;
+  top: 32.170898px;
+  left: 11.321228px;
+  width: 350px;
+  height: 334px;
   position: absolute;
+  border-radius: 0 0 210px 210px;
 }
 .intervet-clnica-landing-page-mobile-frame2 {
   top: 4130.5302734375px;
