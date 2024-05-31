@@ -1169,7 +1169,9 @@
 }
 .intervet-clnica-landing-page-mobile-text063 {
   top: 11186.2431640625px;
-  left: 52.5380859375px;
+  /* left: 52.5380859375px; */
+  left:50%;
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
   width: 324px;
   height: auto;
