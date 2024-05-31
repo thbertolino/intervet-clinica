@@ -241,7 +241,7 @@
 }
 .intervet-clnica-landing-page-mobile-depoimentos {
   top: 6573.18603515625px;
-  left: 50px;
+  left: 35px;
   width: 430px;
   height: 275px;
   display: flex;
@@ -1315,7 +1315,9 @@
 }
 .intervet-clnica-landing-page-mobile-text103 {
   top: 7153px;
-  left: 37px;
+  /* left: 37px; */
+  left:50%;
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
   width: 357px;
   height: auto;
@@ -4351,6 +4353,7 @@
   border-radius: 25px;
   flex-direction: column;
   background-color: rgba(68, 170, 75, 1);
+  width: 370px; /* ou qualquer valor que você achar adequado */
 }
 .intervet-clnica-landing-page-mobile-headlineandicon {
   display: flex;
