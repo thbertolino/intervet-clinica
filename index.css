@@ -35,7 +35,9 @@
 }
 .intervet-clnica-landing-page-mobile-group17 {
   top: 9463px;
-  left: 37px;
+  /* left: 37px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   width: 357px;
   height: 184.85435485839844px;
   display: flex;
@@ -949,7 +951,9 @@
 }
 .intervet-clnica-landing-page-mobile-cta02 {
   top: 205px;
-  left: 123px;
+  /* left: 123px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   width: 150px;
   height: 42px;
   display: flex;
@@ -977,6 +981,8 @@
 }
 .intervet-clnica-landing-page-mobile-text039 {
   top: 694px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   /* left: 56px; */
   color: rgba(64, 46, 16, 1);
   /* width: 317px; */
@@ -993,7 +999,9 @@
 }
 .intervet-clnica-landing-page-mobile-text041 {
   top: 1969px;
-  left: 99px;
+  /* left: 99px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(129, 179, 54, 1);
   width: 231px;
   height: auto;
@@ -1009,7 +1017,9 @@
 }
 .intervet-clnica-landing-page-mobile-text045 {
   top: 6438.18603515625px;
-  left: 89.2772216796875px;
+  /* left: 89.2772216796875px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
   width: 250px;
   height: auto;
@@ -1025,7 +1035,9 @@
 }
 .intervet-clnica-landing-page-mobile-text047 {
   top: 4014.35400390625px;
-  left: 55px;
+  /* left: 55px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
   width: 319px;
   height: auto;
@@ -1044,7 +1056,9 @@
 }
 .intervet-clnica-landing-page-mobile-text050 {
   top: 2057px;
-  left: 55px;
+  /* left: 55px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(64, 46, 16, 1);
   width: 319px;
   height: auto;
@@ -1060,7 +1074,9 @@
 }
 .intervet-clnica-landing-page-mobile-text056 {
   top: 6473.93310546875px;
-  left: 51px;
+  /* left: 51px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
   width: 327px;
   height: auto;
@@ -1080,7 +1096,9 @@
 }
 .intervet-clnica-landing-page-mobile-text059 {
   top: 8916px;
-  left: 56.95458984375px;
+  /* left: 56.95458984375px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
   width: 315px;
   height: auto;
@@ -1096,7 +1114,9 @@
 }
 .intervet-clnica-landing-page-mobile-text061 {
   top: 9248px;
-  left: 35px;
+  /* left: 35px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
   width: 359px;
   height: auto;
@@ -1139,7 +1159,9 @@
 
 .intervet-clnica-landing-page-mobile-text069 {
   top: 9800px;
-  left: 55px;
+  /* left: 55px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(129, 179, 54, 1);
   width: 319px;
   height: auto;
@@ -1155,8 +1177,8 @@
 }
 .intervet-clnica-landing-page-mobile-text073 {
   top: 9877px;
-  /* top: 73.33322143554688px; */
-  left: 8.55555534362793px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(64, 46, 16, 1);
   width: 302px;
   height: auto;
@@ -1166,14 +1188,16 @@
   text-align: center;
   font-family: Nunito Sans;
   font-weight: 400;
-  line-height: 111.37000322341919%;
+  line-height: 111.37%;
   font-stretch: normal;
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text077 {
   /* top: 127.56814575195312px; */
   top: 9925px;
-  left: 85px;
+  /* left: 85px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(129, 179, 54, 1);
   width: 255px;
   height: auto;
@@ -1197,7 +1221,9 @@
 }
 .intervet-clnica-landing-page-mobile-text084 {
   top: 4919px;
-  left: 25px;
+  /* left: 25px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(129, 179, 54, 1);
   width: 381px;
   height: auto;
@@ -1228,7 +1254,9 @@
 }
 .intervet-clnica-landing-page-mobile-text096 {
   top: 5669px;
-  left: 62px;
+  /* left: 62px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
   width: 307px;
   height: auto;
@@ -1266,7 +1294,9 @@
 }
 .intervet-clnica-landing-page-mobile-group31 {
   top: 1610px;
-  left: 75px;
+  /* left: 75px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   width: 253px;
   height: 224.73184204101562px;
   display: flex;
@@ -1442,7 +1472,9 @@
 }
 .intervet-clnica-landing-page-mobile-group12 {
   top: 4597px;
-  left: 57px;
+  /* left: 57px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   width: 317px;
   height: 200.47430419921875px;
   display: flex;
@@ -1618,7 +1650,9 @@
 }
 .intervet-clnica-landing-page-mobile-group16 {
   top: 6838.18603515625px;
-  left: 93px;
+  /* left: 93px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   width: 245px;
   height: 219.3974151611328px;
   display: flex;
@@ -1970,7 +2004,8 @@
 }
 .intervet-clnica-landing-page-mobile-group13 {
   top: 5341px;
-  left: 93px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   width: 245px;
   height: 217.62570190429688px;
   display: flex;
@@ -2331,7 +2366,8 @@
 }
 .intervet-clnica-landing-page-mobile-cta13 {
   top: 5884px;
-  left: 126px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   width: 179px;
   height: 50.45637512207031px;
   display: flex;
@@ -5010,7 +5046,9 @@
 }
 .intervet-clnica-landing-page-mobile-maskgroup19 {
   top: 8998px;
-  left: 36px;
+  /* left: 36px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   width: 361.04541015625px;
   height: 213.66015625px;
   display: flex;
@@ -5030,7 +5068,9 @@
 }
 .intervet-clnica-landing-page-mobile-maps-full-map {
   top: 9997px;
-  left: 35px;
+  /* left: 35px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   width: 359px;
   height: 270px;
   display: flex;
@@ -5328,7 +5368,9 @@
 }
 .intervet-clnica-landing-page-mobile-group131 {
   top: 10288px;
-  left: 92px;
+  /* left: 92px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   width: 246px;
   height: 218.5139617919922px;
   display: flex;
@@ -5490,7 +5532,7 @@
 }
 .intervet-clnica-landing-page-mobile-text350 {
   color: rgba(129, 179, 54, 1);
-  width: 246px;
+  /* width: 246px; */
   height: auto;
   position: absolute;
   font-size: 34.357540130615234px;
@@ -5504,7 +5546,9 @@
 }
 .intervet-clnica-landing-page-mobile-group20 {
   top: 10845.7109375px;
-  left: 35px;
+  /* left: 35px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   width: 359px;
   height: 270.83038330078125px;
   display: flex;
@@ -5754,7 +5798,9 @@
 }
 .intervet-clnica-landing-page-mobile-text374 {
   top: 10588.4248046875px;
-  left: 124.5626220703125px;
+  /* left: 124.5626220703125px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
   width: 181px;
   height: auto;
@@ -5794,7 +5840,9 @@
 }
 .intervet-clnica-landing-page-mobile-text388 {
   top: 32px;
-  left: 134px;
+  /* left: 134px; */
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(248, 202, 142, 1);
   width: 163px;
   height: auto;
