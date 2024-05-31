@@ -211,19 +211,21 @@
 }
 .intervet-clnica-landing-page-mobile-rectangle16 {
   top: 6906px;
-  left: 0px;
   width: 430px;
   height: 1965px;
   position: absolute;
   border-radius: 0 0 160px 160px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
 }
 .intervet-clnica-landing-page-mobile-rectangle19 {
   top: 10541px;
-  left: 0px;
   width: 430px;
   height: 710px;
   position: absolute;
   border-radius: 160px 160px 0 0;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
 }
 .intervet-clnica-landing-page-mobile-rectangle15 {
   top: 6011px;
@@ -232,6 +234,8 @@
   height: 1109px;
   position: absolute;
   border-radius: 0 0 160px 160px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
 }
 .intervet-clnica-landing-page-mobile-depoimentos {
   top: 6573.18603515625px;
@@ -552,6 +556,8 @@
   height: 810px;
   position: absolute;
   border-radius: 160px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
 }
 .intervet-clnica-landing-page-mobile-rectangle12 {
   width: 430px;
@@ -587,6 +593,8 @@
   height: 662px;
   position: absolute;
   border-radius: 0 0 160px 160px;
+  left: 50%;
+  transform: translateX(-50%); /* ajustar para centralizar */
 }
 .intervet-clnica-landing-page-mobile-maskgroup04 {
   top: 0px;
@@ -1128,20 +1136,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-/* top: 4014.35400390625px;
-left: 55px;
-color: rgba(255, 255, 255, 1);
-width: 319px;
-height: auto;
-position: absolute;
-font-size: 26px;
-font-style: ExtraBold;
-text-align: center;
-font-family: Nunito Sans;
-font-weight: 800;
-line-height: 111.37000322341919%;
-font-stretch: normal;
-text-decoration: none; */
+
 .intervet-clnica-landing-page-mobile-text069 {
   top: 9800px;
   left: 55px;
@@ -1161,10 +1156,10 @@ text-decoration: none; */
 .intervet-clnica-landing-page-mobile-text073 {
   top: 9877px;
   /* top: 73.33322143554688px; */
-  /* left: 8.55555534362793px; */
+  left: 8.55555534362793px;
   color: rgba(64, 46, 16, 1);
-  /* width: 302px; */
-  /* height: auto; */
+  width: 302px;
+  height: auto;
   position: absolute;
   font-size: 18px;
   font-style: Regular;
