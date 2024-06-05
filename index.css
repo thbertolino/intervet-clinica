@@ -132,7 +132,7 @@
   color: rgba(68, 170, 75, 1);
   height: auto;
   position: absolute;
-  font-size: 11.553398132324219px;
+  font-size: 14px;
   font-style: Regular;
   text-align: left;
   font-family: Nunito Sans;
@@ -175,7 +175,7 @@
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
-  font-size: 11.553398132324219px;
+  font-size: 13px;
   font-style: Regular;
   text-align: left;
   font-family: Nunito Sans;
@@ -202,7 +202,7 @@
   width: 357px;
   height: auto;
   position: absolute;
-  font-size: 28.883495330810547px;
+  font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
   font-family: Nunito Sans;
@@ -1101,7 +1101,7 @@
   width: 1000px;
   height: auto;
   position: relative;
-  font-size: 17px;
+  font-size: 16px;
   font-style: Regular;
   text-align: center;
   font-family: Nunito Sans;
@@ -1715,14 +1715,14 @@
   border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group104 {
-  top: 12.31855297088623px;
-  left: 24.6368350982666px;
-  width: 153.4463653564453px;
-  height: 33.3689079284668px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 1;
+    top: 12.318553px;
+    left: 30.636835px;
+    width: 186.446365px;
+    height: 33.3689079284668px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
 }
 .intervet-clnica-landing-page-mobile-icontel3 {
   top: 0px;
@@ -1828,7 +1828,7 @@
 }
 .intervet-clnica-landing-page-mobile-text142 {
   top: 1.3688160181045532px;
-  left: 39.63094711303711px;
+  left: 42px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -1869,7 +1869,7 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-group11 {
-  top: 3609px;
+  top: 3650px;
   /* left: 71px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -1894,7 +1894,7 @@
 }
 .intervet-clnica-landing-page-mobile-group105 {
   top: 13.424586296081543px;
-  left: 26.84919548034668px;
+  left: 35px;
   width: 166.25784301757812px;
   height: 35.79888153076172px;
   display: flex;
@@ -1996,7 +1996,7 @@
 }
 .intervet-clnica-landing-page-mobile-group25 {
   top: 13.424544334411621px;
-  left: 26.84916114807129px;
+  left: 30px;
   width: 212.1896514892578px;
   height: 35.79888153076172px;
   display: flex;
@@ -2071,7 +2071,6 @@
 }
 .intervet-clnica-landing-page-mobile-group106 {
   top: 12.318195343017578px;
-  /* left: 24.6368350982666px; */
   left: 50%;
   transform: translateX(-50%); /* ajustar para centralizar */
   width: 153.4463653564453px;
@@ -2430,15 +2429,17 @@
   border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group107 {
-  top: 10.811920166015625px;
-  left: 21.624160766601562px;
-  width: 134.255859375px;
-  height: 29.201250076293945px;
+  top: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 125px;
+  height: 100px;
   display: flex;
   position: absolute;
   align-items: flex-start;
   flex-shrink: 1;
 }
+
 .intervet-clnica-landing-page-mobile-icontel6 {
   top: 0px;
   left: 0px;
@@ -3265,9 +3266,9 @@
 .intervet-clnica-landing-page-mobile-maskgroup05 {
   top: 0px;
   /* left: 0px; */
-  left: 120px;
+  left: 130px;
   transform: translateX(-60%); /* ajustar para centralizar */
-  width: 175px;
+  width: 150px;
   height: 198.33518981933594px;
   display: flex;
   overflow: hidden;
@@ -3331,7 +3332,7 @@
   top: 152.815673828125px;
   left: -0.00002386849700997118px;
   color: rgba(255, 74, 74, 1);
-  width: 183px;
+  width: 160px;
   height: auto;
   position: absolute;
   font-size: 10.83798885345459px;
@@ -3626,9 +3627,9 @@
 .intervet-clnica-landing-page-mobile-maskgroup06 {
   top: 0px;
   /* left: 0px; */
-  left: 120px;
+  left: 130px;
   transform: translateX(-60%); /* ajustar para centralizar */
-  width: 175px;
+  width: 150px;
   height: 198.33518981933594px;
   display: flex;
   overflow: hidden;
@@ -3647,13 +3648,12 @@
 }
 .intervet-clnica-landing-page-mobile-group71 {
   top: 50px;
-  /* left: 190px; */
   left: 220px;
-  transform: translateX(-10%); /* ajustar para centralizar */
-  width: 183px;
-  height: 101px;
+  transform: translateX(-10%);
+  width: 140px;
+  height: 187.49720764160156px;
   display: flex;
-  position: absolute;
+  position: relative;
   align-items: flex-start;
   flex-shrink: 1;
 }
@@ -3702,9 +3702,9 @@
 .intervet-clnica-landing-page-mobile-maskgroup07 {
   top: 0px;
   /* left: 0px; */
-  left: 120px;
+  left: 130px;
   transform: translateX(-60%); /* ajustar para centralizar */
-  width: 175px;
+  width: 150px;
   height: 198.33518981933594px;
   display: flex;
   overflow: hidden;
@@ -3781,7 +3781,7 @@
   /* left: 204.83798217773438px; */
   left: 220px;
   transform: translateX(-10%); /* ajustar para centralizar */
-  width: 175px;
+  width: 150px;
   height: 198.33518981933594px;
   display: flex;
   overflow: hidden;
@@ -3801,7 +3801,7 @@
 .intervet-clnica-landing-page-mobile-group61 {
   top: 34.68152618408203px;
   /* left: 0px; */
-  left: 100px;
+  left: 120px;
   transform: translateX(-50%); /* ajustar para centralizar */
   width: 175px;
   height: 130.0558624267578px;
@@ -3829,7 +3829,7 @@
 .intervet-clnica-landing-page-mobile-text246 {
   top: 48.770957946777344px;
   color: rgba(64, 46, 16, 1);
-  width: 183px;
+  width: 170px;
   height: auto;
   position: absolute;
   font-size: 12px;
@@ -3856,7 +3856,7 @@
   /* left: 204.83798217773438px; */
   left: 220px;
   transform: translateX(-10%); /* ajustar para centralizar */
-  width: 175px;
+  width: 150px;
   height: 198.33518981933594px;
   display: flex;
   overflow: hidden;
@@ -3929,7 +3929,7 @@
 .intervet-clnica-landing-page-mobile-maskgroup10 {
   top: -0.00006274005136219785px;
   left: 204.83798217773438px;
-  width: 175px;
+  width: 150px;
   height: 198.33518981933594px;
   display: flex;
   overflow: hidden;
@@ -3960,10 +3960,10 @@
 }
 .intervet-clnica-landing-page-mobile-text254 {
   color: rgba(64, 46, 16, 1);
-  width: 183px;
+  width: 170px;
   height: auto;
   position: absolute;
-  font-size: 13.005586624145508px;
+  font-size: 12px;
   font-style: Regular;
   text-align: left;
   font-family: Nunito Sans;
@@ -4014,6 +4014,22 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text255 {
+  top: -50px;
+  left: 28.178770065307617px;
+  color: rgba(129, 179, 54, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 15.173184394836426px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text256 {
   top: 0.00010911312710959464px;
@@ -5178,7 +5194,7 @@
   /* left: 35px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
-  width: 359px;
+  width: 300px;
   height: 270px;
   display: flex;
   overflow: hidden;
@@ -5738,8 +5754,8 @@
 }
 .intervet-clnica-landing-page-mobile-cta16 {
   top: 0px;
-  left: 0px;
-  width: 157.76129150390625px;
+  left: 25px;
+  width: 130px;
   height: 44.469627380371094px;
   display: flex;
   position: absolute;
@@ -5750,7 +5766,7 @@
 }
 .intervet-clnica-landing-page-mobile-group109 {
   top: 9.529296875px;
-  left: 19.0584716796875px;
+  left: 12px;
   width: 118.8353271484375px;
   height: 26.059389114379883px;
   display: flex;
@@ -5840,8 +5856,8 @@
 }
 .intervet-clnica-landing-page-mobile-cta17 {
   top: 0px;
-  left: 168.3492431640625px;
-  width: 189.52529907226562px;
+  left: 160px;
+  width: 175px;
   height: 44.469627380371094px;
   display: flex;
   position: absolute;
@@ -5852,7 +5868,7 @@
 }
 .intervet-clnica-landing-page-mobile-group28 {
   top: 9.529296875px;
-  left: 19.0584716796875px;
+  left: 15px;
   width: 150.65750122070312px;
   height: 26.059389114379883px;
   display: flex;
@@ -5928,7 +5944,7 @@
   /* width: 28px; */
   height: 24px;
   display: flex;
-  position: relative;
+  position: absolute;
   align-items: flex-start;
   flex-shrink: 1;
 }
@@ -5973,4 +5989,41 @@
   margin-top: 10px;
   font-size: 14px;
   color: #333;
+}
+
+.image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.image-container img {
+  width: 150px; /* Ajuste a largura conforme necessário */
+  height: 200px; /* Para garantir que seja quadrada */
+  border-radius: 50px; /* Arredonda levemente as bordas */
+  display: block;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.servicos {
+  font-size: 14px; /* Ajuste o tamanho da fonte conforme necessário */
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 800px; /* Ajuste conforme necessário */
+}
+
+.image-container {
+  margin-right: 0px;
+}
+
+.text-container {
+  max-width: 600px; /* Ajuste conforme necessário */
 }
