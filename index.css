@@ -5998,7 +5998,7 @@
 }
 
 .image-container img {
-  width: 185px; /* Ajuste a largura conforme necessário */
+  width: 200px; /* Ajuste a largura conforme necessário */
   height: 200px; /* Para garantir que seja quadrada */
   border-radius: 50px; /* Arredonda levemente as bordas */
   display: block;
@@ -6009,7 +6009,6 @@
 
 .servicos {
   font-size: 17px;
-  /* padding-left: 50px; */
 }
 
 .container {
