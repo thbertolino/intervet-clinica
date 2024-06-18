@@ -605,7 +605,7 @@
 .intervet-clnica-landing-page-mobile-rectangle11 {
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
-  top: 2500px;
+  top: 2450px;
   width: 430px;
   height: 2005px;
   position: absolute;
@@ -1037,7 +1037,7 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text041 {
-  top: 1930px;
+  top: 1925px;
   /* left: 99px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -6008,14 +6008,15 @@
 }
 
 .servicos {
-  font-size: 17px; /* Ajuste o tamanho da fonte conforme necessário */
+  font-size: 17px;
+  /* padding-left: 50px; */
 }
 
 .container {
   display: flex;
   align-items: center;
   width: 100%;
-  max-width: 800px; /* Ajuste conforme necessário */
+  max-width: 800px; 
 }
 
 .image-container {
@@ -6024,4 +6025,5 @@
 
 .text-container {
   max-width: 600px; /* Ajuste conforme necessário */
+  padding: 10px;
 }
