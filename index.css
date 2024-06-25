@@ -132,10 +132,10 @@
   color: rgba(68, 170, 75, 1);
   height: auto;
   position: absolute;
-  font-size: 14px;
+  font-size: 15px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -149,15 +149,15 @@
 }
 .intervet-clnica-landing-page-mobile-cta01 {
   top: 136.330078125px;
-  left: 75.09716796875px;
-  width: 206.8058319091797px;
-  height: 48.52427291870117px;
+  left: 66px;
+  width: 220px;
+  height: 55px;
   display: flex;
   position: absolute;
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(68, 170, 75, 1);
-  border-radius:50px;
+  border-radius: 50px;
 }
 .intervet-clnica-landing-page-mobile-group2 {
   top: 10.3984375px;
@@ -175,10 +175,10 @@
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
-  font-size: 13px;
+  font-size: 14px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -191,8 +191,8 @@
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-vector007 {
-  top: 9px;
-  left: 9px;
+  top: 10px;
+  left: 15px;
   width: 28px;
   height: 28px;
   position: absolute;
@@ -205,7 +205,7 @@
   font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -339,7 +339,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -415,7 +415,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -431,7 +431,7 @@
   font-size: 16px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -488,7 +488,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -504,7 +504,7 @@
   font-size: 16px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -561,7 +561,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -577,7 +577,7 @@
   font-size: 16px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -652,8 +652,7 @@
   border-radius: 0px 0px 200px 200px;
 }
 .intervet-clnica-landing-page-mobile-logointervet {
-  top: 39.68165969848633px;
-  /* left: 35.9981689453125px; */
+  top: 40px;
   left: 5%; /* posicionar a partir do centro */
   transform: translateX(-10%);
   width: 57.00182342529297px;
@@ -976,7 +975,7 @@
   font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -993,8 +992,8 @@
   /* left: 123px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
-  width: 150px;
-  height: 42px;
+  width: 170px;
+  height: 52px;
   display: flex;
   position: absolute;
   align-items: flex-start;
@@ -1003,16 +1002,16 @@
   border-radius: 50px
 }
 .intervet-clnica-landing-page-mobile-text035 {
-  top: 11px;
-  left: 15px;
+  top: 8px;
+  left: 20px;
   color: rgba(255, 255, 255, 1);
   width: 123px;
   height: auto;
   position: absolute;
-  font-size: 12px;
+  font-size: 15px;
   font-style: Bold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 700;
   line-height: 80.0000011920929%;
   font-stretch: normal;
@@ -1030,14 +1029,14 @@
   font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text041 {
-  top: 1925px;
+  top: 1930px;
   /* left: 99px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -1048,7 +1047,7 @@
   font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1063,17 +1062,17 @@
   width: 250px;
   height: auto;
   position: absolute;
-  font-size: 27px;
+  font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text047 {
-  top: 4525px;
+  top: 4475px;
   /* left: 55px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -1081,10 +1080,10 @@
   width: 319px;
   height: auto;
   position: absolute;
-  font-size: 29px;
+  font-size: 28px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1094,7 +1093,8 @@
   font-weight: 800;
 }
 .intervet-clnica-landing-page-mobile-text050 {
-  top: 2000px;
+  top: 1990px;
+  padding: 10px;
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(64, 46, 16, 1);
@@ -1104,7 +1104,7 @@
   font-size: 16px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1119,10 +1119,10 @@
   width: 327px;
   height: auto;
   position: absolute;
-  font-size: 18px;
+  font-size: 16px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1144,7 +1144,7 @@
   font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1162,7 +1162,7 @@
   font-size: 18px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1179,7 +1179,7 @@
   font-size: 14.630093574523926px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1208,7 +1208,7 @@
   font-size: 30.55555534362793px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1225,7 +1225,7 @@
   font-size: 18px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37%;
   font-stretch: normal;
@@ -1243,7 +1243,7 @@
   font-size: 15.888888359069824px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1258,7 +1258,7 @@
   font-weight: 800;
 }
 .intervet-clnica-landing-page-mobile-text084 {
-  top: 5335px;
+  top: 5325px;
   /* left: 25px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -1266,10 +1266,10 @@
   width: 275px;
   height: auto;
   position: absolute;
-  font-size: 25px;
+  font-size: 24px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1326,7 +1326,7 @@
   font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1358,7 +1358,7 @@
 }
 .intervet-clnica-landing-page-mobile-group102 {
   top: 12.720685958862305px;
-  left: 30px;
+  left: 27px;
   width: 157.83238220214844px;
   height: 34.41339111328125px;
   display: flex;
@@ -1431,10 +1431,10 @@
   color: rgba(241, 104, 58, 1);
   height: auto;
   position: absolute;
-  font-size: 14.134078025817871px;
+  font-size: 17px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -1474,10 +1474,10 @@
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
-  font-size: 14.134078025817871px;
+  font-size: 14px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -1504,7 +1504,7 @@
   font-size: 35.3351936340332px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1609,10 +1609,10 @@
   color: rgba(68, 170, 75, 1);
   height: auto;
   position: absolute;
-  font-size: 12.529644012451172px;
+  font-size: 15px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -1655,7 +1655,7 @@
   font-size: 12.529644012451172px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -1679,10 +1679,10 @@
   width: 317px;
   height: auto;
   position: absolute;
-  font-size: 31.32411003112793px;
+  font-size: 28px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1787,10 +1787,10 @@
   color: rgba(68, 170, 75, 1);
   height: auto;
   position: absolute;
-  font-size: 13.687150955200195px;
+  font-size: 15px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -1830,10 +1830,10 @@
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
-  font-size: 13.687150955200195px;
+  font-size: 13px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -1860,7 +1860,7 @@
   font-size: 34.21787643432617px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -1968,7 +1968,7 @@
   font-size: 14.916200637817383px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -2011,7 +2011,7 @@
   font-size: 14.916200637817383px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -2038,7 +2038,7 @@
   font-size: 35px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2143,10 +2143,10 @@
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
-  font-size: 13.687150955200195px;
+  font-size: 15px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -2191,7 +2191,7 @@
   font-size: 13.687150955200195px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -2218,7 +2218,7 @@
   font-size: 34.21787643432617px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2245,7 +2245,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2260,7 +2260,7 @@
   font-size: 14px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2346,7 +2346,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2362,7 +2362,7 @@
   font-size: 14px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2506,7 +2506,7 @@
   font-size: 12.013422012329102px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -2539,7 +2539,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2555,7 +2555,7 @@
   font-size: 14px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2754,7 +2754,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2770,7 +2770,7 @@
   font-size: 14px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2821,7 +2821,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2837,7 +2837,7 @@
   font-size: 14px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2924,7 +2924,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -2940,7 +2940,7 @@
   font-size: 14px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3062,7 +3062,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3077,7 +3077,7 @@
   font-size: 14px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3164,7 +3164,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3180,7 +3180,7 @@
   font-size: 14px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3304,7 +3304,7 @@
   font-size: 15.173184394836426px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3320,7 +3320,7 @@
   font-size: 12px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3336,7 +3336,7 @@
   font-size: 10.83798885345459px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3665,7 +3665,7 @@
   font-size: 15.173184394836426px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3681,7 +3681,7 @@
   font-size: 13.005586624145508px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3742,7 +3742,7 @@
   font-size: 15.173184394836426px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3758,7 +3758,7 @@
   font-size: 13.005586624145508px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3818,7 +3818,7 @@
   font-size: 15.173184394836426px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3833,7 +3833,7 @@
   font-size: 12px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3893,7 +3893,7 @@
   font-size: 15.173184394836426px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3908,7 +3908,7 @@
   font-size: 13.005586624145508px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -3964,7 +3964,7 @@
   font-size: 12px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4023,7 +4023,7 @@
   font-size: 15.173184394836426px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4039,7 +4039,7 @@
   font-size: 15.173184394836426px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4054,14 +4054,14 @@
   font-size: 13.005586624145508px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-group14 {
-  top: 5580px;
+  top: 5585px;
   /* left: 36px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -4182,7 +4182,7 @@
   font-size: 35px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 92.00000166893005%;
   font-stretch: normal;
@@ -4198,7 +4198,7 @@
   font-size: 35px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 92.00000166893005%;
   font-stretch: normal;
@@ -4214,7 +4214,7 @@
   font-size: 35px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 92.00000166893005%;
   font-stretch: normal;
@@ -4230,7 +4230,7 @@
   font-size: 35px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 92.00000166893005%;
   font-stretch: normal;
@@ -4246,7 +4246,7 @@
   font-size: 35px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 92.00000166893005%;
   font-stretch: normal;
@@ -4387,7 +4387,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4437,7 +4437,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4487,7 +4487,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4537,7 +4537,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4587,7 +4587,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4637,7 +4637,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4687,7 +4687,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4737,7 +4737,7 @@
   font-size: 14px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4787,7 +4787,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4837,7 +4837,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4887,7 +4887,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4937,7 +4937,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -4987,7 +4987,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -5037,7 +5037,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -5087,7 +5087,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -5137,7 +5137,7 @@
   font-size: 15px;
   font-style: ExtraBold;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -5586,10 +5586,10 @@
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
-  font-size: 13.743017196655273px;
+  font-size: 15px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -5632,7 +5632,7 @@
   font-size: 13.743017196655273px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -5656,10 +5656,10 @@
   /* width: 246px; */
   height: auto;
   position: absolute;
-  font-size: 34.357540130615234px;
+  font-size: 32px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -5687,7 +5687,7 @@
   font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -5703,7 +5703,7 @@
   font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -5718,7 +5718,7 @@
   font-size: 17px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -5734,7 +5734,7 @@
   font-size: 14.630093574523926px;
   font-style: Regular;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 111.37000322341919%;
   font-stretch: normal;
@@ -5840,7 +5840,7 @@
   font-size: 10.588006019592285px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -5883,7 +5883,7 @@
   font-size: 10.588006019592285px;
   font-style: Regular;
   text-align: left;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
   line-height: 102.99999713897705%;
   font-stretch: normal;
@@ -5911,7 +5911,7 @@
   font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 81.99999928474426%;
   font-stretch: normal;
@@ -5926,10 +5926,10 @@
   width: 181px;
   height: auto;
   position: absolute;
-  font-size: 25px;
+  font-size: 23px;
   font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 150%;
   font-stretch: normal;
@@ -5972,7 +5972,7 @@
   font-size: 12.890188217163086px;
   font-style: Bold;
   text-align: center;
-  font-family: Nunito Sans;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 700;
   line-height: 137.99999952316284%;
   font-stretch: normal;
