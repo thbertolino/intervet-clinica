@@ -1094,7 +1094,7 @@
 }
 .intervet-clnica-landing-page-mobile-text050 {
   top: 1990px;
-  padding: 10px;
+  padding: 15px;
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(64, 46, 16, 1);
@@ -1291,7 +1291,7 @@
   color: rgba(129, 179, 54, 1);
 }
 .intervet-clnica-landing-page-mobile-text096 {
-  top: 6090px;
+  top: 6100px;
   /* left: 62px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -1299,10 +1299,10 @@
   width: 307px;
   height: auto;
   position: absolute;
-  font-size: 28px;
-  /* font-style: ExtraBold; */
+  font-size: 26px;
+  font-style: ExtraBold;
   text-align: center;
-  font-family: Nunito;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
   line-height: 111.37000322341919%;
   font-stretch: normal;
