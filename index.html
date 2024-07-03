@@ -143,9 +143,9 @@
                 />
               </div>
             </div>
-            <!-- <span class="intervet-clnica-landing-page-mobile-text010">
+            <span class="intervet-clnica-landing-page-mobile-text010">
               <span>Quero agendar consulta com uma clínica confiável</span>
-            </span> -->
+            </span>
           </div>
           <img
             src="public/rectangle163518-1998-500w.png"
@@ -301,9 +301,9 @@
           </span>
           <div class="intervet-clnica-landing-page-mobile-cta02">
             <span class="intervet-clnica-landing-page-mobile-text035">
-              <span>Agende uma consulta</span>
+              <span>AGENDE UMA CONSULTA</span>
               <br />
-              <span>e surpreenda-se</span>
+              <span>E SURPREENDA-SE</span>
             </span>
           </div>
           <span class="intervet-clnica-landing-page-mobile-text039">
@@ -517,8 +517,7 @@
                 Nosso Endereço:
               </span>
               <br />
-              <span class="intervet-clnica-landing-page-mobile-text080"></span>
-              <span>
+              <span class="intervet-clnica-landing-page-mobile-text080">
                 R. Fernando Pinto, 225 A - Centro, Sete Lagoas MG, 35700-042
               </span>
               <br />
@@ -791,7 +790,7 @@
               <span>consulta agora</span>
             </span>
           </div>
-          <!-- <div class="intervet-clnica-landing-page-mobile-group11">
+          <div class="intervet-clnica-landing-page-mobile-group11">
             <div class="intervet-clnica-landing-page-mobile-cta09">
               <div class="intervet-clnica-landing-page-mobile-group105">
                 <div class="intervet-clnica-landing-page-mobile-icontel4">
@@ -867,7 +866,7 @@
               <br />
               <span></span>
             </span>
-          </div> -->
+          </div>
           <div class="intervet-clnica-landing-page-mobile-group13">
             <div class="intervet-clnica-landing-page-mobile-cta11">
               <div class="intervet-clnica-landing-page-mobile-group106">
@@ -949,7 +948,7 @@
           </div>
           <div class="intervet-clnica-landing-page-mobile-veterinrios">
             <span class="intervet-clnica-landing-page-mobile-text181">
-              <span>Veterinários Altamente Qualificados</span>
+              <span>Veterinários Qualificados</span>
             </span>
             <span class="intervet-clnica-landing-page-mobile-text183">
               <span>
@@ -1908,12 +1907,41 @@
 </html>
 
 <script>
-  function toggleAnswer(element) {
+function toggleAnswer(element) {
+    const answers = document.querySelectorAll('.answer');
     const answer = element.nextElementSibling;
-    if (answer.style.display === "none" || answer.style.display === "") {
-      answer.style.display = "block";
+
+    // Fecha todas as respostas, exceto a clicada
+    answers.forEach(a => {
+        if (a !== answer) {
+            a.style.display = 'none';
+        }
+    });
+
+    // Alterna a resposta clicada
+    if (getComputedStyle(answer).display === "none") {
+        answer.style.display = "block";
     } else {
-      answer.style.display = "none";
+        answer.style.display = "none";
     }
-  }
+
+    // Abre automaticamente a primeira resposta se todas estiverem fechadas
+    const allClosed = Array.from(answers).every(a => getComputedStyle(a).display === "none");
+    if (allClosed) {
+        answers[0].style.display = "block";
+    }
+
+    // Ajusta a altura da classe .intervet-clnica-landing-page-mobile-rectangle16
+    const rectangle = document.querySelector('.intervet-clnica-landing-page-mobile-rectangle16');
+    const anyOpen = Array.from(answers).some(a => getComputedStyle(a).display === "block");
+    rectangle.style.height = anyOpen ? '2200px' : '7500px';
+}
+
+window.onload = () => {
+    const answers = document.querySelectorAll('.answer');
+    if (answers.length > 0) {
+        answers[0].style.display = "block"; // Abre a primeira resposta inicialmente
+    }
+}
+
 </script>
