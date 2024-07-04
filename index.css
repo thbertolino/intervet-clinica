@@ -1073,7 +1073,7 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text047 {
-  top: 4790px;
+  top: 4775px;
   /* left: 55px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -1092,6 +1092,10 @@
 }
 .intervet-clnica-landing-page-mobile-text048 {
   font-weight: 800;
+}
+.intervet-clnica-landing-page-mobile-text048-sub {
+  font-size: 20px;
+  line-height: 0px;
 }
 .intervet-clnica-landing-page-mobile-text050 {
   top: 1990px;
@@ -1871,7 +1875,7 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-group11 {
-  top: 4475px;
+  top: 4450px;
   /* left: 71px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -4391,6 +4395,7 @@
 .intervet-clnica-landing-page-mobile-text282 {
   color: rgba(255, 255, 255, 1);
   height: auto;
+  width: 350px;
   flex-grow: 1;
   font-size: 15px;
   font-style: ExtraBold;
