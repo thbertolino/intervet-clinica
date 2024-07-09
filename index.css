@@ -606,7 +606,7 @@
 .intervet-clnica-landing-page-mobile-rectangle11 {
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
-  top: 2725px;
+  top: 2750px;
   width: 430px;
   height: 2005px;
   position: absolute;
@@ -1296,7 +1296,7 @@
   color: rgba(129, 179, 54, 1);
 }
 .intervet-clnica-landing-page-mobile-text096 {
-  top: 6420px;
+  top: 6400px;
   /* left: 62px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -1875,7 +1875,7 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-group11 {
-  top: 4450px;
+  top: 4500px;
   /* left: 71px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -2236,19 +2236,19 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-veterinrios {
-  top: 773px;
+  top: 780px;
   /* left: 20px; */
   left: 15%; /* posicionar a partir do centro */
   transform: translateX(-30%); /* ajustar para centralizar */
-  width: 166px;
-  height: 165px;
+  width: 165px;
+  height: 150px;
   display: flex;
   position: absolute;
   align-items: flex-start;
   flex-shrink: 1;
 }
 .intervet-clnica-landing-page-mobile-text181 {
-  top: 76px;
+  top: 70px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
   height: auto;
@@ -2773,7 +2773,7 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text208 {
-  top: 112px;
+  top: 100px;
   left: 10px;
   color: rgba(63, 46, 16, 1);
   width: 150px;
@@ -2813,19 +2813,19 @@
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-experincia {
-  top: 781px;
+  top: 780px;
   /* left: 200px; */
   left: 85%; /* posicionar a partir do centro */
   transform: translateX(-70%); /* ajustar para centralizar */
-  width: 166px;
-  height: 151px;
+  width: 165px;
+  height: 150px;
   display: flex;
   position: absolute;
   align-items: flex-start;
   flex-shrink: 1;
 }
 .intervet-clnica-landing-page-mobile-text210 {
-  top: 68px;
+  top: 70px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
   height: auto;
