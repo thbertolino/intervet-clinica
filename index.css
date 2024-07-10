@@ -254,7 +254,6 @@
 }
 .intervet-clnica-landing-page-mobile-depoimentos1 {
   top: -32px;
-  /* left: 72px; */
   left: 130px;
   transform: translateX(-10%); /* ajustar para centralizar */
   width: 1250px;
@@ -281,6 +280,18 @@
   /* left: 72px; */
   left: 170px;
   transform: translateX(40%); /* ajustar para centralizar */
+  width: 1250px;
+  height: 210px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-depoimentos4 {
+  top: -32px;
+  /* left: 72px; */
+  left: 190px;
+  transform: translateX(65%); /* ajustar para centralizar */
   width: 1250px;
   height: 210px;
   display: flex;
@@ -354,16 +365,16 @@
   height: auto;
   position: absolute;
   font-size: 16px;
-  font-style: normal; /* Corrigido para 'normal' em vez de 'Regular' */
+  font-style: normal;
   text-align: left;
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 400;
-  line-height: 1.1137; /* Ajuste para um valor adequado */
+  line-height: 1.1137;
   font-stretch: normal;
   text-decoration: none;
-  word-wrap: break-word; /* Adicionado para quebrar palavras longas */
-  word-break: break-word; /* Adicionado para quebrar palavras longas */
-  overflow-wrap: break-word; /* Adicionado para quebrar palavras longas */
+  word-wrap: break-word;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 .intervet-clnica-landing-page-mobile-group21 {
   top: 0px;
@@ -2429,8 +2440,8 @@
   top: 6700px;
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
-  width: 179px;
-  height: 50.45637512207031px;
+  width: 180px;
+  height: 50px;
   display: flex;
   position: absolute;
   align-items: flex-start;
@@ -2525,7 +2536,7 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text192 {
-  font-weight: 800;
+  font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-text194 {
   font-weight: 800;
