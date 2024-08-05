@@ -1,3 +1,23 @@
+.nossos_servicos{
+  width: 430px;
+  height: 1580px;
+  position: absolute;
+  border-radius: 0 0 160px 160px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
+  top: 2000; /* ajustar a margem superior conforme necessário */
+}
+
+.especialistas{
+  width: 430px;
+  height: 1580px;
+  position: absolute;
+  border-radius: 0 0 160px 160px;
+  left: 50%; /* posicionar a partir do centro */
+  transform: translateX(-50%); /* ajustar para centralizar */
+  top: 4500; /* ajustar a margem superior conforme necessário */
+}
+
 .intervet-clnica-landing-page-mobile-container {
   width: 100%;
   display: flex;
@@ -12,7 +32,7 @@
 
 .intervet-clnica-landing-page-mobile-intervet-clnica-landing-page-mobile {
   width: 100%;
-  height: 12400px;
+  height: 12100px;
   display: flex;
   overflow: hidden;
   position: relative;
@@ -992,6 +1012,12 @@
   line-height: 111.37000322341919%;
   font-stretch: normal;
   text-decoration: none;
+  opacity: 1;
+  transition: all 0.5s ease; /* Adiciona a transição para a animação */
+}
+.intervet-clnica-landing-page-mobile-text028.fade {
+  opacity: 0;
+  transform: translateX(-100%); /* Move o elemento para a esquerda */
 }
 .intervet-clnica-landing-page-mobile-text029 {
   color: rgba(255, 255, 255, 1);
@@ -1011,7 +1037,13 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(239, 181, 81, 1);
-  border-radius: 50px
+  border-radius: 50px;
+  opacity: 1;
+  transition: all 0.5s ease; /* Adiciona a transição para a animação */
+}
+.intervet-clnica-landing-page-mobile-cta02.fade {
+opacity: 0;
+transform: translateX(-100%); /* Move o elemento para a esquerda */
 }
 .intervet-clnica-landing-page-mobile-text035 {
   top: 10px;
@@ -1167,12 +1199,12 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text061 {
-  top: 10350px;
+  top: 10300px;
   /* left: 35px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
-  width: 280px;
+  width: 350px;
   height: auto;
   position: absolute;
   font-size: 18px;
@@ -1185,7 +1217,7 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text063 {
-  top: 12350px;
+  top: 12050px;
   left:50%;
   transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
@@ -4202,7 +4234,7 @@
   width: 285px;
   height: auto;
   position: absolute;
-  font-size: 35px;
+  font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
   font-family: 'Nunito Sans', sans-serif;
@@ -4218,7 +4250,7 @@
   width: 285px;
   height: auto;
   position: absolute;
-  font-size: 35px;
+  font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
   font-family: 'Nunito Sans', sans-serif;
@@ -4234,7 +4266,7 @@
   width: 285px;
   height: auto;
   position: absolute;
-  font-size: 35px;
+  font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
   font-family: 'Nunito Sans', sans-serif;
@@ -4250,7 +4282,7 @@
   width: 285px;
   height: auto;
   position: absolute;
-  font-size: 35px;
+  font-size: 25px;
   font-style: ExtraBold;
   text-align: center;
   font-family: 'Nunito Sans', sans-serif;
@@ -4290,9 +4322,9 @@
 }
 .intervet-clnica-landing-page-mobile-wander1 {
   top: 0px;
-  left: -34px;
-  width: 350px;
-  height: 339px;
+  left: -20px;
+  width: 330px;
+  height: 350px;
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup15 {
@@ -4309,10 +4341,10 @@
   border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-wander11 {
-  top: 0px;
-  left: -34px;
-  width: 350px;
-  height: 339px;
+  top: -15px;
+  left: -20px;
+  width: 330px;
+  height: 380px;
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup16 {
@@ -4330,9 +4362,9 @@
 }
 .intervet-clnica-landing-page-mobile-wander12 {
   top: 0px;
-  left: -34px;
-  width: 350px;
-  height: 339px;
+  left: -30px;
+  width: 330px;
+  height: 350px;
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup17 {
@@ -4351,8 +4383,8 @@
 .intervet-clnica-landing-page-mobile-wander13 {
   top: 0px;
   left: -34px;
-  width: 350px;
-  height: 339px;
+  width: 330px;
+  height: 350px;
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup18 {
@@ -5190,7 +5222,7 @@
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup19 {
-  top: 10100px;
+  top: 10070px;
   /* left: 36px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -5691,7 +5723,7 @@
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-group20 {
-  top: 12000px;
+  top: 11870px;
   /* left: 35px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -6061,4 +6093,27 @@
 .text-container {
   max-width: 600px; /* Ajuste conforme necessário */
   padding: 10px;
+}
+
+.menu-lista {
+  display: none; /* Oculta a lista por padrão */
+  opacity: 0; /* Torna a lista invisível por padrão */
+  transform: translateX(100%); /* Posiciona a lista fora da tela à direita */
+  transition: all 0.5s ease; /* Adiciona a transição para a animação */
+  top: 80px;
+  left: 65%;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  font-family: 'Nunito Sans', sans-serif;
+  color: rgba(255, 255, 255, 1);
+  font-weight: 800;
+}
+
+.menu-lista.mostrar {
+  display: block; /* Exibe a lista quando a classe "mostrar" é adicionada */
+  opacity: 1; /* Torna a lista visível */
+  transform: translateX(0); /* Move a lista para sua posição original */
 }
