@@ -32,7 +32,7 @@
 
 .intervet-clnica-landing-page-mobile-intervet-clnica-landing-page-mobile {
   width: 100%;
-  height: 12100px;
+  height: 12400px;
   display: flex;
   overflow: hidden;
   position: relative;
@@ -1217,7 +1217,7 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text063 {
-  top: 12050px;
+  top: 12350px;
   left:50%;
   transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
@@ -5723,7 +5723,7 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-group20 {
-  top: 11870px;
+  top: 12030px;
   /* left: 35px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
@@ -5741,7 +5741,7 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   width: 355px;
   height: auto;
   position: absolute;
-  font-size: 25px;
+  font-size: 30px;
   font-style: ExtraBold;
   text-align: center;
   font-family: 'Nunito Sans', sans-serif;
@@ -5981,10 +5981,10 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
-  width: 181px;
+  width: 250px;
   height: auto;
   position: absolute;
-  font-size: 23px;
+  font-size: 30px;
   font-style: ExtraBold;
   text-align: center;
   font-family: 'Nunito Sans', sans-serif;
