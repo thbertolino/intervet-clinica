@@ -242,18 +242,19 @@
 }
 .intervet-clnica-landing-page-mobile-depoimentos {
   top: 7615px;
-  left: 35px;
+  left: 25px;
   width: 430px;
   height: 275px;
   display: flex;
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
-  overflow-x: auto; /* Permitir rolagem horizontal */
+  overflow-x: hidden; /* Desabilitar rolagem horizontal */
+  overflow-y: auto; /* Permitir rolagem vertical */
   white-space: nowrap; /* Evitar quebra de linha */
 }
 .intervet-clnica-landing-page-mobile-depoimentos1 {
-  top: -32px;
+  top: -30px;
   left: 130px;
   transform: translateX(-10%); /* ajustar para centralizar */
   width: 1250px;
@@ -264,10 +265,10 @@
   flex-shrink: 0;
 }
 .intervet-clnica-landing-page-mobile-depoimentos2 {
-  top: -32px;
+  top: 210px;
   /* left: 72px; */
-  left: 150px;
-  transform: translateX(15%); /* ajustar para centralizar */
+  left: 130px;
+  transform: translateX(-10%); /* ajustar para centralizar */
   width: 1250px;
   height: 210px;
   display: flex;
@@ -276,10 +277,10 @@
   flex-shrink: 0;
 }
 .intervet-clnica-landing-page-mobile-depoimentos3 {
-  top: -32px;
+  top: 450px;
   /* left: 72px; */
-  left: 170px;
-  transform: translateX(40%); /* ajustar para centralizar */
+  left: 130px;
+  transform: translateX(-10%); /* ajustar para centralizar */
   width: 1250px;
   height: 210px;
   display: flex;
@@ -288,10 +289,10 @@
   flex-shrink: 0;
 }
 .intervet-clnica-landing-page-mobile-depoimentos4 {
-  top: -32px;
+  top: 690px;
   /* left: 72px; */
-  left: 190px;
-  transform: translateX(65%); /* ajustar para centralizar */
+  left: 130px;
+  transform: translateX(-10%); /* ajustar para centralizar */
   width: 1250px;
   height: 210px;
   display: flex;
@@ -300,10 +301,10 @@
   flex-shrink: 0;
 }
 .intervet-clnica-landing-page-mobile-depoimentos5 {
-  top: -32px;
+  top: 930px;
   /* left: 72px; */
-  left: 210px;
-  transform: translateX(90%); /* ajustar para centralizar */
+  left: 130px;
+  transform: translateX(-10%); /* ajustar para centralizar */
   width: 1250px;
   height: 210px;
   display: flex;
@@ -312,10 +313,10 @@
   flex-shrink: 0;
 }
 .intervet-clnica-landing-page-mobile-depoimentos6 {
-  top: -32px;
+  top: 1170px;
   /* left: 72px; */
-  left: 230px;
-  transform: translateX(115%); /* ajustar para centralizar */
+  left: 130px;
+  transform: translateX(-10%); /* ajustar para centralizar */
   width: 1250px;
   height: 210px;
   display: flex;
@@ -324,10 +325,10 @@
   flex-shrink: 0;
 }
 .intervet-clnica-landing-page-mobile-depoimentos7 {
-  top: -32px;
+  top: 1410px;
   /* left: 72px; */
-  left: 250px;
-  transform: translateX(140%); /* ajustar para centralizar */
+  left: 130px;
+  transform: translateX(-10%); /* ajustar para centralizar */
   width: 1250px;
   height: 210px;
   display: flex;
@@ -1215,12 +1216,12 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text061 {
-  top: 10570px;
+  top: 10600px;
   /* left: 35px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
   color: rgba(255, 255, 255, 1);
-  width: 325px;
+  width: 350px;
   height: auto;
   position: absolute;
   font-size: 16px;
@@ -4217,7 +4218,6 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
 }
 .intervet-clnica-landing-page-mobile-frame2 {
   top: 4900px;
-  /* left: 0px; */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
   width: 430px;
@@ -4226,7 +4226,8 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
-  overflow-x: auto; /* Permitir rolagem horizontal */
+  overflow-x: hidden; /* Desabilitar rolagem horizontal */
+  overflow-y: auto; /* Permitir rolagem vertical */
   white-space: nowrap; /* Evitar quebra de linha */
 }
 .intervet-clnica-landing-page-mobile-mdicos {
@@ -4261,8 +4262,8 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text266 {
-  top: 365px;
-  left: 328px;
+  top: 820px;
+  left: 1px;
   color: rgba(255, 255, 255, 1);
   width: 285px;
   height: auto;
@@ -4277,8 +4278,8 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text270 {
-  top: 365px;
-  left: 655px;
+  top: 1275px;
+  left: 1px;
   color: rgba(255, 255, 255, 1);
   width: 285px;
   height: auto;
@@ -4293,8 +4294,8 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   text-decoration: none;
 }
 .intervet-clnica-landing-page-mobile-text274 {
-  top: 365px;
-  left: 982px;
+  top: 1730px;
+  left: 1px;
   color: rgba(255, 255, 255, 1);
   width: 285px;
   height: auto;
@@ -4345,8 +4346,8 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup15 {
-  top: 0px;
-  left: 327px;
+  top: 450px;
+  left: 0px;
   width: 287px;
   height: 338px;
   display: flex;
@@ -4365,8 +4366,8 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup16 {
-  top: 0px;
-  left: 654px;
+  top: 900px;
+  left: 0px;
   width: 287px;
   height: 338px;
   display: flex;
@@ -4385,8 +4386,8 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-maskgroup17 {
-  top: 0px;
-  left: 981px;
+  top: 1350px;
+  left: 0px;
   width: 287px;
   height: 338px;
   display: flex;
@@ -5244,7 +5245,7 @@ transform: translateX(-100%); /* Move o elemento para a esquerda */
   left: 50%; /* posicionar a partir do centro */
   transform: translateX(-50%); /* ajustar para centralizar */
   width: 340px;
-  height: 270px;
+  height: 300px;
   display: flex;
   overflow: hidden;
   position: absolute;
